@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CarnellCody]]></title>
+        <description><![CDATA[CarnellCody]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 23 Feb 2016 18:28:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Life will lead us all like comets...]]></title>
+            <description><![CDATA[<article><h1>Life will lead us all like comets...</h1><p>From primal mist of matter to spiraled galaxies and clockwork solar systems, from molten rock to an earth of air and land and water, from heaviness to lightness to life, sensation to perception, memory to consciousness-- man now holds a mirror, spirit sees itself. Within the river currents turn back, eddies whirl. The river itself falters, disappears, emerges, moves on. The general course is the growth of form, increasing awareness, matter to mind to consciousness. The harmony of man and nature is to be found in continuing this journey along its ancient course toward greater freedom and awareness.</p></article>]]></description>
+            <link>undefinedlife-will-lead-us-all-like-comets/index.html</link>
+            <guid isPermaLink="false">e41a2b70-1e88-4360-8083-7395fd453ead</guid>
+            <pubDate>Tue, 23 Feb 2016 18:27:52 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
