@@ -1,4 +1,4 @@
-name: CarnellCody
+name: CarnellCodyBridges
 favicon: null
 layout_spectrum: 0.7938523872289807
 typography_spectrum: 0.8921041376888752
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.3790569144766778
-  lightness: 0.5120617733336985
-  saturation: 0.876534387236461
-  rhythmicContrast: 0.9001504010520875
+    - '#ff0000'
+    - '#ff7f00'
+    - '#ffff00'
+    - '#00bc3f'
+    - '#0068ff'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.75
+  rhythmicContrast: 0.5
 purpose: []
